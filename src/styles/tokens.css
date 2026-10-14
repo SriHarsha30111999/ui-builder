@@ -1,0 +1,51 @@
+:root {
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: ui-monospace, 'Cascadia Code', Consolas, monospace;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-md: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.625rem;
+
+  /* Spacing (4px scale) */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+
+  /* Colour */
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --surface-2: #f0f2f5;
+  --border: #dfe3e8;
+  --border-strong: #c3cad3;
+  --text: #1a2230;
+  --text-muted: #5b6676;
+  --primary: #3b5bdb;
+  --primary-hover: #2f4ac0;
+  --primary-soft: #e8edff;
+  --success: #1f8a4c;
+  --success-soft: #e3f5ea;
+  --warning: #b36b00;
+  --warning-soft: #fff3dc;
+  --danger: #c92a2a;
+  --danger-soft: #fdeaea;
+  --info: #0b7285;
+  --info-soft: #e0f5f8;
+  --focus: #3b5bdb;
+
+  /* Shape */
+  --radius-sm: 6px;
+  --radius: 10px;
+  --radius-lg: 14px;
+  --shadow-sm: 0 1px 2px rgb(16 24 40 / 0.06);
+  --shadow: 0 2px 8px rgb(16 24 40 / 0.08);
+
+  /* Layout */
+  --header-h: 56px;
+  --content-max: 1120px;
+}
